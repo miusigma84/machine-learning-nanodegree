@@ -9,7 +9,7 @@ Courses include lecture videos, quizzes, programming problems. These courses wer
 
 This directory includes my submission of the mandatory project work for each module in the form of the IPython notebook and a final Capstone project on stock price prediction using machine learning.
 
-Program Outline:
+# Program Outline:
 
 Exploratory Project: Titanic Survival Exploration
 
