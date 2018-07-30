@@ -11,8 +11,8 @@ This directory includes my submission of the mandatory project work for each mod
 
 ## Program Outline:
 
-* ## Exploratory Project
-## Project 0: Titanic Survival Exploration
+* ### Exploratory Project
+### Project 0: Titanic Survival Exploration
 Exploring Titanic Dataset and understand the basics.
 
 * ### Model Evaluation and Validation
