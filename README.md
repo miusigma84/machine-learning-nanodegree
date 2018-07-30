@@ -13,7 +13,7 @@ This directory includes my submission of the mandatory project work for each mod
 
 ## Exploratory Project
 ### Project 0: Titanic Survival Exploration
-Exploring Titanic Dataset and understand the basics.
+* Exploring Titanic Dataset and understand the basics.
 
 ## Model Evaluation and Validation
 ### Project 1: Predicting Boston Housing Prices
